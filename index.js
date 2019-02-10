@@ -15,7 +15,7 @@ class BoardMember {
 
   doCharity = function(){
     return "I like to help people."
-  }
+ }
 
   releasePressStatement = function(){
     return "You will see great things from Scuber."
